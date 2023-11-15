@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Water Me</string>
+    <string name="remind_me">Recuérdame que riegue %s en…</string>
+    <string name="five_seconds">5 segundos</string>
+    <string name="one_day">1 día</string>
+    <string name="one_week">1 semana</string>
+    <string name="one_month">1 mes</string>
+    <string name="water">Agua</string>
+    <string name="time_to_water">Es\ momento de regar su %s.</string>
+
+    <string name="lithop">Litopo</string>
+    <string name="carrot">Zanahoria</string>
+    <string name="peony">Peonía</string>
+    <string name="pothos">Polillas</string>
+    <string name="fiddle_leaf_fig">Higuera</string>
+    <string name="strawberry">Fresa</string>
+    <string name="daily">Diario</string>
+    <string name="weekly">Semanal</string>
+    <string name="monthly">Mensual</string>
+    <string name="succulent">Suculento</string>
+    <string name="root">Raíz</string>
+    <string name="flower">Flor</string>
+    <string name="houseplant">Planta interior</string>
+    <string name="broadleaf_evergreen">Planta perenne de hoja ancha</string>
+    <string name="fruit">Fruta</string>
+    <string name="stone_mimicking_succulent">Suculenta que imita la piedra</string>
+    <string name="hardy_root_vegetable">Raíces resistentes</string>
+    <string name="spring_blooming_flower">Flor primaveral</string>
+    <string name="indoor_vine">Enredadera de interior</string>
+    <string name="ornamental_fig">Higuera ornamental</string>
+    <string name="delicious_multiple_fruit">Deliciosa fruta múltiple</string>
+</resources>

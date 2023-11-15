@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Blur-O-Matic</string>
+
+    <!-- Title -->
+    <string name="blur_title">Seleccione la cantidad de difuminado</string>
+
+    <!-- Buttons -->
+    <string name="select_image">Seleccione una imagen</string>
+    <string name="start">Inicio</string>
+    <string name="see_file">Ver archivo</string>
+
+    <!-- Content description -->
+    <string name="description_image">La imagen a difuminar se guardó.</string>
+
+    <!-- Blur levels -->
+    <string name="blur_lv_1">Un poco borroso</string>
+    <string name="blur_lv_2">Más borroso</string>
+    <string name="blur_lv_3">El más borroso</string>
+    <string name="cancel_work">Cancelar trabajo</string>
+
+    <!-- Messages -->
+    <string name="set_permissions_in_settings">Vaya a Configuración -> Apps y Notificaciones ->
+        WorkManager Demo -> Permisos de App y conceda acceso a Almacenamiento.</string>
+
+    <!-- Notification -->
+    <string name="blurring_image">Imagen borrosa</string>
+    <string name="saving_image">Guardar imagen</string>
+    <string name="cleaning_up_files">Limpieza de archivos temporales antiguos</string>
+
+    <!-- Errors -->
+    <string name="invalid_input_uri">Uri de entrada no válida</string>
+    <string name="error_applying_blur">Error al aplicar el desenfoque</string>
+    <string name="writing_to_mediaStore_failed">Error al escribir en MediaStore</string>
+    <string name="error_saving_image">Error al guardar imagen</string>
+    <string name="error_cleaning_file">Error al limpiar archivos temporales antiguos</string>
+</resources>
